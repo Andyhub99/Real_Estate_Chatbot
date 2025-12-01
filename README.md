@@ -84,12 +84,7 @@ Once the server is running, you can access the backend at:
 | 2      | Working       | ![Working](Screenshots/Working.jpeg) |
 | 3      | Working 2     | ![Working 2](Screenshots/Working-2.jpeg) |
 
-## 🎥 Demo Video
 
-A short demo video showcasing the Real Estate Chatbot project:
-  
-
- (Link)
 # 👨‍💻 Developer
 
 **Anuj Prashant Patil**  
