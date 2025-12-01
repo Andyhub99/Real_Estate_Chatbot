@@ -1,1 +1,18 @@
-﻿# Top-level ignores\n# Python artifacts\n__pycache__/\n*.py[cod]\n*.pyo\n*.pyd\n# Virtual envs\nvenv/\nenv/\n# SQLite DBs and env secrets\nBackend/db.sqlite3\nBackend/.env\n.env\n# Node modules\nFrontend/node_modules/\n# Editor files\n.vscode/\n.DS_Store
+# Top-level ignores
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+# Virtual envs
+venv/
+env/
+# SQLite DBs and env secrets
+Backend/db.sqlite3
+Backend/.env
+.env
+# Node modules
+Frontend/node_modules/
+# Editor files
+.vscode/
+.DS_Store
