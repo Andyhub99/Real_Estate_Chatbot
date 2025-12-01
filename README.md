@@ -78,7 +78,7 @@ Once the server is running, you can access the backend at:
 **http://127.0.0.1:8000/**
 ## 🎥 Demo Video
 
-A short **1–2 minute demo video** showcasing the Real Estate Chatbot project:
+A short demo video showcasing the Real Estate Chatbot project:
   
 
  (Link)
