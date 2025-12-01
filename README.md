@@ -11,7 +11,7 @@ Built with **React (frontend)** + **Django REST Framework (backend)**.
 |--------|-------------|
 | `/frontend` | React-based UI for real estate chatbot |
 | `/backend`  | Django REST API + chatbot logic |
-| `/static` or `/media` (if applicable) | Additional assets |
+| `/static` or `/media`  | Additional assets |
 
 ---
 
@@ -63,7 +63,7 @@ Built with **React (frontend)** + **Django REST Framework (backend)**.
 | Run development server    | `npm run dev`  |
 
 > Once the server is running, the frontend will be accessible at:  
-> **http://localhost:5173** (or the port assigned by Vite)
+> **http://localhost:5173** 
 ## ⚙️ Backend Setup (Django)
 
 Follow these steps to run the backend locally:
