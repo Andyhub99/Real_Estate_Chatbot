@@ -79,12 +79,9 @@ Once the server is running, you can access the backend at:
 ## 🎥 Demo Video
 
 A short **1–2 minute demo video** showcasing the Real Estate Chatbot project:
+  
 
-- Project folder structure  
-- Commands to run **Frontend** & **Backend**  
-- Chatbot in action  
-
-[Watch Demo Video] (Link)
+ (Link)
 # 👨‍💻 Developer
 
 **Anuj Prashant Patil**  
