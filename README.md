@@ -76,6 +76,14 @@ Follow these steps to run the backend locally:
 
 Once the server is running, you can access the backend at:  
 **http://127.0.0.1:8000/**
+## 📸 Screenshots
+
+| Sr. No | Feature/Page  | Screenshot |
+|--------|---------------|------------|
+| 1      | Homepage      |![Homepage](Screenshots/home%20page.jpg) |
+| 2      | Working       | ![Working](Screenshots/Working.jpeg) |
+| 3      | Working 2     | ![Working 2](Screenshots/Working-2.jpeg) |
+
 ## 🎥 Demo Video
 
 A short demo video showcasing the Real Estate Chatbot project:
