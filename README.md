@@ -48,10 +48,13 @@ Built with **React (frontend)** + **Django REST Framework (backend)**.
 
 ## 📦 Installation & Setup
 
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/Andyhub99/real-estate-chatbot.git
-cd real-estate-chatbot
+### 1️⃣ Clone Repository
+
+| Step | Command |
+|------|---------|
+| Clone the repo | `git clone https://github.com/Andyhub99/real-estate-chatbot.git` |
+| Go into project folder | `cd real-estate-chatbot` |
+
 ## ⚛️ Frontend Setup (React)
 
 | Step                     | Command         |
