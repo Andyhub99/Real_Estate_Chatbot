@@ -85,7 +85,6 @@ Once the server is running, you can access the backend at:
 | 3      | Working 2     | ![Working 2](Screenshots/Working-2.jpeg) |
 
 
-# 👨‍💻 Developer
 
 **Anuj Prashant Patil**  
 GitHub: [https://github.com/Andyhub99](https://github.com/Andyhub99)
